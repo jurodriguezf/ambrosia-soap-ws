@@ -1,0 +1,10 @@
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/example/howtodoinjava/springbootsoapservice/SpringBootSoapServiceApplication.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/howtodoinjava/xml/school/ObjectFactory.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/howtodoinjava/xml/school/Student.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/example/howtodoinjava/springbootsoapservice/StudentEndpoint.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/example/howtodoinjava/springbootsoapservice/StudentRepository.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/howtodoinjava/xml/school/ReceiptDetailsRequest.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/howtodoinjava/xml/school/package-info.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/howtodoinjava/xml/school/StudentDetailsRequest.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/example/howtodoinjava/springbootsoapservice/Config.java
+/home/pmoros/Downloads/spring-boot-soap-service/src/main/java/com/howtodoinjava/xml/school/StudentDetailsResponse.java
